@@ -65,23 +65,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-getgenv().SCRIPT_KEY="Nigga"
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/7c2cd584c4755211a544a0bf454a32f7b1f095577fde1d299e9cc9792ca1a47b/download"))()
